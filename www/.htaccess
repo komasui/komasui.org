@@ -1,0 +1,34 @@
+#index
+Options -Indexes
+DirectoryIndex index.html
+
+#type
+AddType "text/html; charset=UTF-8" html
+#AddType "application/rss; charset=UTF-8" xml
+
+#SSI
+Options +Includes
+AddHandler server-parsed html
+
+#Content Negotiation
+Options +MultiViews
+
+#Error
+ErrorDocument 403 /misc/403.html
+ErrorDocument 404 /misc/404.html
+
+#deny
+<Files ~ "^.(htaccess|htpasswd)$">
+deny from all
+</Files>
+order deny,allow
+deny from common misc
+
+#utf-8
+AddDefaultCharset utf-8
+
+# URL末尾に .qr を付けるとQRコードになる
+# 例: http://komasui.org/concert/20110123 => http://komasui.org/concert/20110123.qr
+RewriteEngine On
+RewriteRule (.*).qr$ http://chart.apis.google.com/chart?chs=256x256&cht=qr&chl=http://komasui.org/$1 [R=302,L]
+

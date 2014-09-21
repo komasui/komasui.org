@@ -1,0 +1,4 @@
+#index
+Options -Indexes
+DirectoryIndex index.xml
+

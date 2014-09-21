@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module>
+  <ModulePrefs title="use Social Data">
+    <Require feature="opensocial-0.8"/>
+  </ModulePrefs>
+  <Content type="html">
+  <![CDATA[
+    <script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAOHys2RlBOXATerRqf1XsaBTcwYgPdsG_yLtaxG1737jzRzFzIRRvQmhDe_ul9MVB2OdRcjA0GMEQ8A"></script>
+    <script type="text/javascript">
+
+    google.load("feeds", "1");
+
+    function initialize() {
+      var feedControl = new google.feeds.FeedControl();
+      feedControl.setLinkTarget(google.feeds.LINK_TARGET_BLANK);
+      feedControl.setNumEntries(7);
+      feedControl.addFeed("http://komasui.org/feed/", "狛吹");
+      feedControl.addFeed("http://komasui.org/bbs/publicity/?a=8", "宣伝");
+      feedControl.addFeed("http://komasui.org/bbs/talk/?a=8", "雑談");
+      feedControl.addFeed("http://member.komasui.org/rss.rdf", "団員");
+      feedControl.draw(
+        document.getElementById("feedControl"), {
+        drawMode : google.feeds.FeedControl.DRAW_MODE_TABBED
+      });
+    }
+
+    google.setOnLoadCallback(initialize);
+
+    </script>
+
+    </script>
+  <div style="font-size:12px;">
+    <div id="feedControl">Loading</div>
+  </div>
+
+  ]]>
+  </Content>
+  <Content type="url" view="mobile" href="http://komasui.org/" />
+</Module>

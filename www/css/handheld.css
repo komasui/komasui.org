@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+.no-handheld {
+  display: none;
+}
+
+div#top{
+  padding: 0px;
+}
+
+h1 {
+  background-color: lime;
+}
+
+div {
+  border-bottom: solid 1px gray;
+  padding: 5px;
+}
