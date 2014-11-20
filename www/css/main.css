@@ -1,1 +1,3 @@
-@import url(200812.css);
+@import url(screen.css);
+@import url(smart.css) (max-width: 749px);
+@import url(smart.css) (max-device-width: 480px);

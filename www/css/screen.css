@@ -98,6 +98,7 @@ h1 {
 
 
 /*----------- NAVIGATION -----------*/
+
 h2#menu {
 	display: none;
 }
@@ -119,7 +120,8 @@ h2#menu {
 #navi li {
 	display: inline;
 	padding: 0;
-
+	margin: 0;
+  float: left;
 }
 
 #navi a {

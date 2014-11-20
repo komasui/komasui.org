@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+/*-----------BASE-----------*/
+img {
+  max-width: 100%;
+  height: auto;
+  width:auto;
+}
+
+#wrap {
+  width: 100%;
+}
+
+/*----------- HEADER -----------*/
+div#top {
+  background-size: cover;
+}
+
+/*----------- NAVIGATION -----------*/
+h2#menu {
+  display: none;
+}
+
+#navi li {
+  display: inline;
+  float: left;
+}
+
+/*----------- INDEX -----------*/
+#index-left, #index-right {
+  width: auto;
+}
+
