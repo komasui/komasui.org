@@ -11,6 +11,8 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/" />
+				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/members-only" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20141223" />
@@ -93,6 +95,18 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/">
+		<link>http://komasui.org/</link>
+		<title>狛江市民吹奏楽団</title>
+		<description>スマートフォン向けにレイアウトを調整しました！</description>
+		<dc:date>2014-11-21T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="http://komasui.org/schedule">
+		<link>http://komasui.org/schedule</link>
+		<title>練習予定</title>
+		<description>練習予定を更新しました！</description>
+		<dc:date>2014-10-31T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/members-only">
 		<link>http://komasui.org/members-only</link>
 		<title>狛吹団員専用</title>
