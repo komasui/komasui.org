@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20160221" />
 				<rdf:li rdf:resource="http://komasui.org/concert/" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
@@ -105,6 +106,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/schedule">
+		<link>http://komasui.org/schedule</link>
+		<title>練習予定</title>
+		<description>練習予定を更新しました！</description>
+		<dc:date>2016-01-05T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/concert/20160221">
 		<link>http://komasui.org/concert/20160221</link>
 		<title>第16回定期演奏会</title>
