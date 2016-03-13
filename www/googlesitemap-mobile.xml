@@ -98,6 +98,10 @@
       <mobile:mobile/>
    </url>
    <url>
+      <loc>http://komasui.org/concert/20170205</loc>
+      <mobile:mobile/>
+   </url>
+   <url>
       <loc>http://komasui.org/schedule</loc>
       <mobile:mobile/>
    </url>
