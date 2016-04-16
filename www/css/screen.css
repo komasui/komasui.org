@@ -86,9 +86,12 @@ div.cite {
 
 /*----------- HEADER -----------*/
 div#top {
-	background: url(../img/top.jpg) no-repeat;
+	background-image: url(../img/top.jpg);
+	background-repeat: no-repeat;
 	margin: 0 auto;
 	height: 150px;
+-moz-background-size:100% auto;
+background-size:100% auto;
 }
 
 

@@ -12,6 +12,8 @@
 		<items>
 			<rdf:Seq>
 				<rdf:li rdf:resource="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
+				<rdf:li rdf:resource="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
+				<rdf:li rdf:resource="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20160221" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20170205" />
 				<rdf:li rdf:resource="http://komasui.org/concert/" />
@@ -112,6 +114,18 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
+		<link>http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
+		<title>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエ</title>
+		<description>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエを更新しました！</description>
+		<dc:date>2016-04-16T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
+		<link>http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
+		<title>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエ</title>
+		<description>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエを更新しました！</description>
+		<dc:date>2016-04-09T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
 		<link>http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
 		<title>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエ</title>
