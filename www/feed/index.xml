@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
 				<rdf:li rdf:resource="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
 				<rdf:li rdf:resource="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
@@ -114,6 +115,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/recruit">
+		<link>http://komasui.org/recruit</link>
+		<title>団員募集</title>
+		<description>団員募集を更新しました！</description>
+		<dc:date>2016-06-05T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
 		<link>http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
 		<title>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエ</title>
