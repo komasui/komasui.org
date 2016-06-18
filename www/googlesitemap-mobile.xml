@@ -134,6 +134,10 @@
       <mobile:mobile/>
    </url>
    <url>
+      <loc>http://komasui.org/map/nanbu</loc>
+      <mobile:mobile/>
+   </url>
+   <url>
       <loc>http://komasui.org/map/ecorma</loc>
       <mobile:mobile/>
    </url>
