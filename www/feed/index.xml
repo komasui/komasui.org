@@ -12,6 +12,7 @@
 		<items>
 			<rdf:Seq>
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
+				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/info" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/map/nanbu" />
@@ -122,6 +123,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/schedule">
+		<link>http://komasui.org/schedule</link>
+		<title>練習予定</title>
+		<description>練習予定を更新しました！</description>
+		<dc:date>2016-07-17T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/schedule">
 		<link>http://komasui.org/schedule</link>
 		<title>練習予定</title>
