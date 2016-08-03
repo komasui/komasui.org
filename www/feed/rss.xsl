@@ -32,7 +32,7 @@
 <xsl:apply-templates select="rss:item"/>
 </ul>
 
-<p><a href="{rss:channel/rss:link}">狛江市民吹奏楽団</a></p>
+<p><a href="/">狛江市民吹奏楽団</a></p>
 
 </body>
 </html>
