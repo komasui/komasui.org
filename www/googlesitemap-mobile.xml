@@ -215,5 +215,10 @@
    </url>
    <url>
       <loc>http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</loc>
+      <mobile:mobile/>
+   </url>
+   <url>
+      <loc>http://komasui.org/members-only</loc>
+      <mobile:mobile/>
    </url>
 </urlset>
