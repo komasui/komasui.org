@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/concert/" />
 				<rdf:li rdf:resource="http://komasui.org/link/sheet-music-for-wind-orchestra" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20170205" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
@@ -125,6 +126,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/concert/">
+		<link>http://komasui.org/concert/</link>
+		<title>演奏会</title>
+		<description>演奏会を更新しました！</description>
+		<dc:date>2016-08-07T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/link/sheet-music-for-wind-orchestra">
 		<link>http://komasui.org/link/sheet-music-for-wind-orchestra</link>
 		<title>吹奏楽の楽譜（無料・有料）</title>
