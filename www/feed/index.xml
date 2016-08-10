@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/link/japan/tokyo" />
 				<rdf:li rdf:resource="http://komasui.org/link/" />
 				<rdf:li rdf:resource="http://komasui.org/contact" />
 				<rdf:li rdf:resource="http://komasui.org/concert/" />
@@ -128,6 +129,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/link/japan/tokyo">
+		<link>http://komasui.org/link/japan/tokyo</link>
+		<title>東京の吹奏楽団</title>
+		<description>東京の吹奏楽団を更新しました！</description>
+		<dc:date>2016-08-11T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/link/">
 		<link>http://komasui.org/link/</link>
 		<title>リンク</title>
