@@ -20,17 +20,22 @@ while(my $line = <IN>) {
   if($city eq $ARGV[0]) {
     if($is_mobile eq TRUE) {
       print << "EOF";
-  <li>
     $name
-    <ul><li><a href="$url">$url</a></li>$comment</ul>
-  </li>
+    <ul><li><a href="$url">$url</a></li><li>$comment</li></ul>
 EOF
     } else {
       print << "EOF";
+<ul>
   <li>
     $name
-    <ul><li><a href="$url">$url</a></li>$comment<li style="list-style:none;"><a href="$url"><img src="http://capture.heartrails.com/free/shorten?$url" alt="$name" width="128" height="128" /></a></li></ul>
+    <img style="float: left; margin-right: 3em;" src="http://capture.heartrails.com/200x150/cool?$url" alt="$name" width="128" height="128" />
+    <ul>
+      <li><a href="$url">$url</a></li>
+      $comment
+    </ul>
   </li>
+</ul>
+<br style="clear: both;"/>
 EOF
     }
   }
@@ -38,3 +43,8 @@ EOF
 
 close(IN);
 exit(0);
+
+
+
+
+
