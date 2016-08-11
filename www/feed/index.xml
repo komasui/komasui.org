@@ -11,6 +11,8 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/map/aitopia" />
+				<rdf:li rdf:resource="http://komasui.org/map/nishigawara" />
 				<rdf:li rdf:resource="http://komasui.org/link/japan/tokyo" />
 				<rdf:li rdf:resource="http://komasui.org/link/" />
 				<rdf:li rdf:resource="http://komasui.org/contact" />
@@ -129,6 +131,18 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/map/aitopia">
+		<link>http://komasui.org/map/aitopia</link>
+		<title>あいとぴあセンター</title>
+		<description>あいとぴあセンターの外観を更新しました！</description>
+		<dc:date>2016-08-11T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="http://komasui.org/map/nishigawara">
+		<link>http://komasui.org/map/nishigawara</link>
+		<title>西河原公民館</title>
+		<description>西河原公民館の外観を更新しました！</description>
+		<dc:date>2016-08-11T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/link/japan/tokyo">
 		<link>http://komasui.org/link/japan/tokyo</link>
 		<title>東京の吹奏楽団</title>
