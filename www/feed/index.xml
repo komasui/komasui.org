@@ -135,7 +135,7 @@
 	<item rdf:about="http://komasui.org/map/">
 		<link>http://komasui.org/map/</link>
 		<title>地図</title>
-		<description>地図をGoogle MapsのStatic Maps APIとGoogle Mapsへのリンクに差し替えました！</description>
+		<description>地図をGoogle MapsのStatic Maps APIの画像とGoogle Mapsへのリンクに差し替えました！</description>
 		<dc:date>2016-08-12T00:00:00+09:00</dc:date>
 	</item>
 	<item rdf:about="http://komasui.org/map/aitopia">
