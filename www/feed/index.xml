@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/concert/20170205" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
@@ -135,6 +136,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/concert/20170205">
+		<link>http://komasui.org/concert/20170205</link>
+		<title>第17回定期演奏会</title>
+		<description>第17回定期演奏会を更新しました。2017年2月05日(日) 14:00 狛江エコルマホール 入場無料です！</description>
+		<dc:date>2016-11-05T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/recruit">
 		<link>http://komasui.org/recruit</link>
 		<title>団員募集</title>
