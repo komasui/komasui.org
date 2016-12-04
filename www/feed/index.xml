@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20170205" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
@@ -136,6 +137,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/recruit">
+		<link>http://komasui.org/recruit</link>
+		<title>団員募集</title>
+		<description>団員募集を更新しました！パーカッション募集中です！が、演奏会前につき、現在団員募集は行っておりません。ご了承ください。</description>
+		<dc:date>2016-12-04T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/concert/20170205">
 		<link>http://komasui.org/concert/20170205</link>
 		<title>第17回定期演奏会</title>
