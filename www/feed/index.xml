@@ -13,6 +13,7 @@
 			<rdf:Seq>
 				<rdf:li rdf:resource="http://komasui.org/concert/20180128" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
+				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20170205" />
@@ -143,13 +144,19 @@
 	<item rdf:about="http://komasui.org/concert/20180128">
 		<link>http://komasui.org/concert/20180128</link>
 		<title>第18回定期演奏会</title>
-		<description>第18回定期演奏会を追加しました！2018年1月28日・エコルマホール・入場無料ですっ！</description>
+		<description>第18回定期演奏会を追加しました！2018年1月28日(日)・エコルマホール・入場無料ですっ！</description>
 		<dc:date>2017-02-11T00:00:00+09:00</dc:date>
 	</item>
 	<item rdf:about="http://komasui.org/schedule">
 		<link>http://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
+		<dc:date>2017-02-11T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="http://komasui.org/recruit">
+		<link>http://komasui.org/recruit</link>
+		<title>団員募集</title>
+		<description>団員募集を再開しました！</description>
 		<dc:date>2017-02-11T00:00:00+09:00</dc:date>
 	</item>
 	<item rdf:about="http://komasui.org/schedule">
