@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20180128" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
@@ -141,6 +142,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/schedule">
+		<link>http://komasui.org/schedule</link>
+		<title>練習予定</title>
+		<description>練習予定を更新しました！初夏の音楽会までの練習予定を更新しています！</description>
+		<dc:date>2017-04-22T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/concert/20180128">
 		<link>http://komasui.org/concert/20180128</link>
 		<title>第18回定期演奏会</title>
