@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/shoka-no-ongakukai" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
@@ -144,6 +145,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/recruit">
+		<link>http://komasui.org/recruit</link>
+		<title>団員募集</title>
+		<description>団員募集を更新しました！オーボエとトロンボーンとパーカッションの募集状況を更新しました。</description>
+		<dc:date>2017-06-03T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/shoka-no-ongakukai">
 		<link>http://komasui.org/shoka-no-ongakukai</link>
 		<title>初夏の音楽会</title>
