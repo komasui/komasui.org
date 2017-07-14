@@ -12,6 +12,7 @@
 		<items>
 			<rdf:Seq>
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
+				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/concert/" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/shoka-no-ongakukai" />
@@ -147,6 +148,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/schedule">
+		<link>http://komasui.org/schedule</link>
+		<title>練習予定</title>
+		<description>練習予定を更新しました！8月分の練習場所が確定しました！</description>
+		<dc:date>2017-07-15T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/schedule">
 		<link>http://komasui.org/schedule</link>
 		<title>練習予定</title>
