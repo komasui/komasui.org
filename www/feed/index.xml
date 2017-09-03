@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/social-media" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
@@ -149,6 +150,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/schedule">
+		<link>http://komasui.org/schedule</link>
+		<title>練習予定</title>
+		<description>練習予定を更新しました！9-10月分の練習予定を掲載しています！</description>
+		<dc:date>2017-09-03T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/social-media">
 		<link>http://komasui.org/social-media</link>
 		<title>ソーシャルメディア</title>
