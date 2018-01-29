@@ -12,6 +12,7 @@
 		<items>
 			<rdf:Seq>
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
+				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20180128" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
@@ -154,6 +155,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/recruit">
+		<link>http://komasui.org/recruit</link>
+		<title>団員募集</title>
+		<description>団員募集を更新しました！演奏会が終了しましたので団員募集を再開しました！</description>
+		<dc:date>2018-01-29T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/recruit">
 		<link>http://komasui.org/recruit</link>
 		<title>団員募集</title>
