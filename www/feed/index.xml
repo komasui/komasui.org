@@ -11,6 +11,7 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/concert/20190127" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
@@ -156,6 +157,12 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/concert/20190127">
+		<link>http://komasui.org/concert/20180128</link>
+		<title>第19回定期演奏会</title>
+		<description>第19回定期演奏会を追加しました！2019年1月27日(日)・エコルマホール・入場無料ですっ！</description>
+		<dc:date>2018-01-30T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/schedule">
 		<link>http://komasui.org/schedule</link>
 		<title>練習予定</title>
