@@ -28,7 +28,11 @@ deny from common misc
 AddDefaultCharset utf-8
 
 # URL末尾に .qr を付けるとQRコードになる
-# 例: http://komasui.org/concert/20110123 => http://komasui.org/concert/20110123.qr
+# 例: https://komasui.org/concert/20110123 => https://komasui.org/concert/20110123.qr
 RewriteEngine On
-RewriteRule (.*).qr$ http://chart.apis.google.com/chart?chs=256x256&cht=qr&chl=http://komasui.org/$1 [R=302,L]
+RewriteRule (.*).qr$ http://chart.apis.google.com/chart?chs=256x256&cht=qr&chl=https://komasui.org/$1 [R=302,L]
+
+# HTTPSへ301リダイレクト
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://komasui.org/$1 [R=301,L]
 
