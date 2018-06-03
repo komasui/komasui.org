@@ -11,6 +11,9 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="http://komasui.org/concert/" />
+				<rdf:li rdf:resource="http://komasui.org/recruit" />
+				<rdf:li rdf:resource="http://komasui.org/concert/20190127" />
 				<rdf:li rdf:resource="http://komasui.org/concert/20190127" />
 				<rdf:li rdf:resource="http://komasui.org/schedule" />
 				<rdf:li rdf:resource="http://komasui.org/recruit" />
@@ -157,8 +160,26 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="http://komasui.org/concert/">
+		<link>http://komasui.org/concert/</link>
+		<title>演奏会</title>
+		<description>演奏会を更新しました！過去ログに「かわせみコンサート」を記載しました。</description>
+		<dc:date>2018-06-03T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="http://komasui.org/recruit">
+		<link>http://komasui.org/recruit</link>
+		<title>団員募集</title>
+		<description>団員募集を更新しました！ユーフォニウムとチューバの募集状況を更新しました！</description>
+		<dc:date>2018-06-03T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="http://komasui.org/concert/20190127">
-		<link>http://komasui.org/concert/20180128</link>
+		<link>http://komasui.org/concert/20190127</link>
+		<title>第19回定期演奏会</title>
+		<description>第19回定期演奏会を更新しました！白黒の速報チラシが出来ましたよー！</description>
+		<dc:date>2018-06-03T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="http://komasui.org/concert/20190127">
+		<link>http://komasui.org/concert/20190127</link>
 		<title>第19回定期演奏会</title>
 		<description>第19回定期演奏会を追加しました！2019年1月27日(日)・エコルマホール・入場無料ですっ！</description>
 		<dc:date>2018-01-30T00:00:00+09:00</dc:date>
