@@ -174,7 +174,7 @@ h3 {
 #contents a[href^="http"]:after {
   content:url(/img/external.png);
 }
-#contents a[href^="http://komasui.org/"]:after {
+#contents a[href^="https://komasui.org/"]:after {
   content:"";
 }
 
