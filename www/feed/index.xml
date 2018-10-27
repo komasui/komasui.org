@@ -1,1044 +1,1044 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <?xml-stylesheet href="/feed/rss.xsl" type="text/xsl" media="screen" ?>
 <rdf:RDF
-	xmlns="http://purl.org/rss/1.0/"
-	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-	xmlns:dc="http://purl.org/dc/elements/1.1/"
-	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" >
-	<channel rdf:about="http://komasui.org/">
+	xmlns="https://purl.org/rss/1.0/"
+	xmlns:rdf="https://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:dc="https://purl.org/dc/elements/1.1/"
+	xmlns:sy="https://purl.org/rss/1.0/modules/syndication/" >
+	<channel rdf:about="https://komasui.org/">
 		<title>狛江市民吹奏楽団の更新情報</title>
-		<link>http://komasui.org/feed/</link>
+		<link>https://komasui.org/feed/</link>
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
-				<rdf:li rdf:resource="http://komasui.org/concert/20190127" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20190127" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20190127" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20180128" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/social-media" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/shoka-no-ongakukai" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20180128" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20170205" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/map/" />
-				<rdf:li rdf:resource="http://komasui.org/map/aitopia" />
-				<rdf:li rdf:resource="http://komasui.org/map/nishigawara" />
-				<rdf:li rdf:resource="http://komasui.org/link/japan/tokyo" />
-				<rdf:li rdf:resource="http://komasui.org/link/" />
-				<rdf:li rdf:resource="http://komasui.org/contact" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/link/sheet-music-for-wind-orchestra" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20170205" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/info" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/map/nanbu" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20170205" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
-				<rdf:li rdf:resource="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
-				<rdf:li rdf:resource="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20160221" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20170205" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20160221" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20160221" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20141223" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/members-only" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20141223" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20131223" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/social-media" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20130106" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20130106" />
-				<rdf:li rdf:resource="http://komasui.org/link/" />
-				<rdf:li rdf:resource="http://komasui.org/shoka-no-ongakukai" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20130106" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/link/" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/link/" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20120115" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20120115" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/" />
-				<rdf:li rdf:resource="http://komasui.org/info" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20110123" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/volunteer-no-tsudoi" />
-				<rdf:li rdf:resource="http://komasui.org/map/aitopia" />
-				<rdf:li rdf:resource="http://komasui.org/map/" />
-				<rdf:li rdf:resource="http://komasui.org/link/japan/society" />
-				<rdf:li rdf:resource="http://komasui.org/link/" />
-				<rdf:li rdf:resource="http://komasui.org/concert/" />
-				<rdf:li rdf:resource="http://komasui.org/concert/20110123" />
-				<rdf:li rdf:resource="http://komasui.org/" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/link/japan/tokyo" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/info" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/map" />
-				<rdf:li rdf:resource="http://komasui.org/info" />
-				<rdf:li rdf:resource="http://komasui.org/recruit" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/schedule" />
-				<rdf:li rdf:resource="http://komasui.org/concert" />
-				<rdf:li rdf:resource="http://komasui.org/info" />
-				<rdf:li rdf:resource="http://komasui.org/" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20190127" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20190127" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20190127" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20180128" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/social-media" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/shoka-no-ongakukai" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20180128" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20170205" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/map/" />
+				<rdf:li rdf:resource="https://komasui.org/map/aitopia" />
+				<rdf:li rdf:resource="https://komasui.org/map/nishigawara" />
+				<rdf:li rdf:resource="https://komasui.org/link/japan/tokyo" />
+				<rdf:li rdf:resource="https://komasui.org/link/" />
+				<rdf:li rdf:resource="https://komasui.org/contact" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/link/sheet-music-for-wind-orchestra" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20170205" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/info" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/map/nanbu" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20170205" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
+				<rdf:li rdf:resource="https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
+				<rdf:li rdf:resource="https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20160221" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20170205" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20160221" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20160221" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20141223" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/members-only" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20141223" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20131223" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/social-media" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20130106" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20130106" />
+				<rdf:li rdf:resource="https://komasui.org/link/" />
+				<rdf:li rdf:resource="https://komasui.org/shoka-no-ongakukai" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20130106" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/link/" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/link/" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20120115" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20120115" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/" />
+				<rdf:li rdf:resource="https://komasui.org/info" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20110123" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/volunteer-no-tsudoi" />
+				<rdf:li rdf:resource="https://komasui.org/map/aitopia" />
+				<rdf:li rdf:resource="https://komasui.org/map/" />
+				<rdf:li rdf:resource="https://komasui.org/link/japan/society" />
+				<rdf:li rdf:resource="https://komasui.org/link/" />
+				<rdf:li rdf:resource="https://komasui.org/concert/" />
+				<rdf:li rdf:resource="https://komasui.org/concert/20110123" />
+				<rdf:li rdf:resource="https://komasui.org/" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/link/japan/tokyo" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/info" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/map" />
+				<rdf:li rdf:resource="https://komasui.org/info" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/concert" />
+				<rdf:li rdf:resource="https://komasui.org/info" />
+				<rdf:li rdf:resource="https://komasui.org/" />
 			</rdf:Seq>
 		</items>
 	</channel>
-	<item rdf:about="http://komasui.org/concert/20190127">
-		<link>http://komasui.org/concert/20190127</link>
+	<item rdf:about="https://komasui.org/concert/20190127">
+		<link>https://komasui.org/concert/20190127</link>
 		<title>第19回定期演奏会</title>
 		<description>第19回定期演奏会を更新しました！新しいチラシが刷り上がりましたー！</description>
 		<dc:date>2018-10-27T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！過去ログに「かわせみコンサート」を記載しました。</description>
 		<dc:date>2018-06-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！ユーフォニウムとチューバの募集状況を更新しました！</description>
 		<dc:date>2018-06-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20190127">
-		<link>http://komasui.org/concert/20190127</link>
+	<item rdf:about="https://komasui.org/concert/20190127">
+		<link>https://komasui.org/concert/20190127</link>
 		<title>第19回定期演奏会</title>
 		<description>第19回定期演奏会を更新しました！白黒の速報チラシが出来ましたよー！</description>
 		<dc:date>2018-06-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20190127">
-		<link>http://komasui.org/concert/20190127</link>
+	<item rdf:about="https://komasui.org/concert/20190127">
+		<link>https://komasui.org/concert/20190127</link>
 		<title>第19回定期演奏会</title>
 		<description>第19回定期演奏会を追加しました！2019年1月27日(日)・エコルマホール・入場無料ですっ！</description>
 		<dc:date>2018-01-30T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！2月分の練習予定を掲載しています！</description>
 		<dc:date>2018-01-30T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！演奏会が終了しましたので団員募集を再開しました！</description>
 		<dc:date>2018-01-29T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！演奏会前につき、現在団員募集は行っておりません。ご了承ください。</description>
 		<dc:date>2017-12-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20180128">
-		<link>http://komasui.org/concert/20180128</link>
+	<item rdf:about="https://komasui.org/concert/20180128">
+		<link>https://komasui.org/concert/20180128</link>
 		<title>第18回定期演奏会</title>
 		<description>第18回定期演奏会を更新しました！定演は３ヶ月後です！！よろしくお願い致します！！！</description>
 		<dc:date>2017-10-29T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！11月分の練習予定を掲載しています！</description>
 		<dc:date>2017-10-29T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！トランペットを「募集中」にしました。</description>
 		<dc:date>2017-09-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！9-10月分の練習予定を掲載しています！</description>
 		<dc:date>2017-09-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/social-media">
-		<link>http://komasui.org/social-media</link>
+	<item rdf:about="https://komasui.org/social-media">
+		<link>https://komasui.org/social-media</link>
 		<title>ソーシャルメディア</title>
 		<description>ソーシャルメディアを更新しました！LINE@を追加しました！</description>
 		<dc:date>2017-07-15T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！8月分の練習場所が確定しました！</description>
 		<dc:date>2017-07-15T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！7-8月分の練習予定を掲載しています！</description>
 		<dc:date>2017-07-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！初夏の音楽会にご来場いただいた皆様、スタッフの皆様、ありがとうございました！</description>
 		<dc:date>2017-06-12T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！オーボエとトロンボーンとパーカッションの募集状況を更新しました。</description>
 		<dc:date>2017-06-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/shoka-no-ongakukai">
-		<link>http://komasui.org/shoka-no-ongakukai</link>
+	<item rdf:about="https://komasui.org/shoka-no-ongakukai">
+		<link>https://komasui.org/shoka-no-ongakukai</link>
 		<title>初夏の音楽会</title>
 		<description>初回の音楽会を更新しました。45周年初夏の音楽会は2017年6月11日(日)・エコルマホール・入場無料ですっ！</description>
 		<dc:date>2017-05-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！初夏の音楽会までの練習予定を確定しました！</description>
 		<dc:date>2017-05-07T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！初夏の音楽会までの練習予定を更新しています！</description>
 		<dc:date>2017-04-22T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20180128">
-		<link>http://komasui.org/concert/20180128</link>
+	<item rdf:about="https://komasui.org/concert/20180128">
+		<link>https://komasui.org/concert/20180128</link>
 		<title>第18回定期演奏会</title>
 		<description>第18回定期演奏会を追加しました！2018年1月28日(日)・エコルマホール・入場無料ですっ！</description>
 		<dc:date>2017-02-11T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2017-02-11T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を再開しました！</description>
 		<dc:date>2017-02-11T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！定期演奏会までの練習予定が確定しました！</description>
 		<dc:date>2017-01-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！パーカッション募集中です！が、演奏会前につき、現在団員募集は行っておりません。ご了承ください。</description>
 		<dc:date>2016-12-04T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20170205">
-		<link>http://komasui.org/concert/20170205</link>
+	<item rdf:about="https://komasui.org/concert/20170205">
+		<link>https://komasui.org/concert/20170205</link>
 		<title>第17回定期演奏会</title>
 		<description>第17回定期演奏会を更新しました。2017年2月05日(日) 14:00 狛江エコルマホール 入場無料です！</description>
 		<dc:date>2016-11-05T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！ファゴットは急募です！</description>
 		<dc:date>2016-10-23T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！定期演奏会までの現時点の予定を記載しました！</description>
 		<dc:date>2016-10-23T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！バストロンボーンを募集中にしました。</description>
 		<dc:date>2016-10-01T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/map/">
-		<link>http://komasui.org/map/</link>
+	<item rdf:about="https://komasui.org/map/">
+		<link>https://komasui.org/map/</link>
 		<title>地図</title>
 		<description>地図をGoogle MapsのStatic Maps APIの画像とGoogle Mapsへのリンクに差し替えました！</description>
 		<dc:date>2016-08-12T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/map/aitopia">
-		<link>http://komasui.org/map/aitopia</link>
+	<item rdf:about="https://komasui.org/map/aitopia">
+		<link>https://komasui.org/map/aitopia</link>
 		<title>あいとぴあセンター</title>
 		<description>あいとぴあセンターの外観を更新しました！</description>
 		<dc:date>2016-08-11T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/map/nishigawara">
-		<link>http://komasui.org/map/nishigawara</link>
+	<item rdf:about="https://komasui.org/map/nishigawara">
+		<link>https://komasui.org/map/nishigawara</link>
 		<title>西河原公民館</title>
 		<description>西河原公民館の外観を更新しました！</description>
 		<dc:date>2016-08-11T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/link/japan/tokyo">
-		<link>http://komasui.org/link/japan/tokyo</link>
+	<item rdf:about="https://komasui.org/link/japan/tokyo">
+		<link>https://komasui.org/link/japan/tokyo</link>
 		<title>東京の吹奏楽団</title>
 		<description>東京の吹奏楽団を更新しました！</description>
 		<dc:date>2016-08-11T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/link/">
-		<link>http://komasui.org/link/</link>
+	<item rdf:about="https://komasui.org/link/">
+		<link>https://komasui.org/link/</link>
 		<title>リンク</title>
 		<description>リンクを更新しました！</description>
 		<dc:date>2016-08-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/contact">
-		<link>http://komasui.org/contact</link>
+	<item rdf:about="https://komasui.org/contact">
+		<link>https://komasui.org/contact</link>
 		<title>問い合わせ</title>
 		<description>問い合わせを更新しました！</description>
 		<dc:date>2016-08-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2016-08-07T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/link/sheet-music-for-wind-orchestra">
-		<link>http://komasui.org/link/sheet-music-for-wind-orchestra</link>
+	<item rdf:about="https://komasui.org/link/sheet-music-for-wind-orchestra">
+		<link>https://komasui.org/link/sheet-music-for-wind-orchestra</link>
 		<title>吹奏楽の楽譜（無料・有料）</title>
 		<description>リンクに吹奏楽の楽譜（無料・有料）を追加しました！</description>
 		<dc:date>2016-08-07T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20170205">
-		<link>http://komasui.org/concert/20170205</link>
+	<item rdf:about="https://komasui.org/concert/20170205">
+		<link>https://komasui.org/concert/20170205</link>
 		<title>第17回定期演奏会</title>
 		<description>第17回定期演奏会等をAMP（Accelerated Mobile Pages）に対応しました！</description>
 		<dc:date>2016-08-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2016-07-17T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2016-07-02T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/info">
-		<link>http://komasui.org/info</link>
+	<item rdf:about="https://komasui.org/info">
+		<link>https://komasui.org/info</link>
 		<title>楽団紹介</title>
 		<description>楽団紹介を更新しました！</description>
 		<dc:date>2016-06-16T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2016-06-16T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/map/nanbu">
-		<link>http://komasui.org/map/nanbu</link>
+	<item rdf:about="https://komasui.org/map/nanbu">
+		<link>https://komasui.org/map/nanbu</link>
 		<title>南部地域センター</title>
 		<description>地図に南部地域センターを追加しました！</description>
 		<dc:date>2016-06-16T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20170205">
-		<link>http://komasui.org/concert/20170205</link>
+	<item rdf:about="https://komasui.org/concert/20170205">
+		<link>https://komasui.org/concert/20170205</link>
 		<title>第17回定期演奏会</title>
 		<description>第17回定期演奏会を更新しました！</description>
 		<dc:date>2016-06-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2016-06-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2016-06-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2016-06-05T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
-		<link>http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
+	<item rdf:about="https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
+		<link>https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
 		<title>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエ</title>
 		<description>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエを更新しました！</description>
 		<dc:date>2016-04-16T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
-		<link>http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
+	<item rdf:about="https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
+		<link>https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
 		<title>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエ</title>
 		<description>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエを更新しました！</description>
 		<dc:date>2016-04-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
-		<link>http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
+	<item rdf:about="https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae">
+		<link>https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</link>
 		<title>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエ</title>
 		<description>ラ・フォル・ジュルネ・オ・ジャポン プレフェス・ア・コマエを追加しました！</description>
 		<dc:date>2016-03-17T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20160221">
-		<link>http://komasui.org/concert/20160221</link>
+	<item rdf:about="https://komasui.org/concert/20160221">
+		<link>https://komasui.org/concert/20160221</link>
 		<title>第16回定期演奏会</title>
 		<description>第16回定期演奏会を更新しました！</description>
 		<dc:date>2016-03-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20170205">
-		<link>http://komasui.org/concert/20170205</link>
+	<item rdf:about="https://komasui.org/concert/20170205">
+		<link>https://komasui.org/concert/20170205</link>
 		<title>第17回定期演奏会</title>
 		<description>第17回定期演奏会を更新しました！</description>
 		<dc:date>2016-03-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2016-03-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2016-03-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2016-03-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2016-01-05T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20160221">
-		<link>http://komasui.org/concert/20160221</link>
+	<item rdf:about="https://komasui.org/concert/20160221">
+		<link>https://komasui.org/concert/20160221</link>
 		<title>第16回定期演奏会</title>
 		<description>第16回定期演奏会を更新しました！</description>
 		<dc:date>2015-11-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2015-11-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2015-09-27T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2015-09-23T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2015-08-23T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2015-08-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2015-08-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20160221">
-		<link>http://komasui.org/concert/20160221</link>
+	<item rdf:about="https://komasui.org/concert/20160221">
+		<link>https://komasui.org/concert/20160221</link>
 		<title>第16回定期演奏会</title>
 		<description>第16回定期演奏会を追加しました！</description>
 		<dc:date>2015-08-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20141223">
-		<link>http://komasui.org/concert/20141223</link>
+	<item rdf:about="https://komasui.org/concert/20141223">
+		<link>https://komasui.org/concert/20141223</link>
 		<title>第15回定期演奏会</title>
 		<description>第15回定期演奏会を更新しました！</description>
 		<dc:date>2015-08-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2015-07-02T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/">
-		<link>http://komasui.org/</link>
+	<item rdf:about="https://komasui.org/">
+		<link>https://komasui.org/</link>
 		<title>狛江市民吹奏楽団</title>
 		<description>スマートフォン向けにレイアウトを調整しました！</description>
 		<dc:date>2014-11-21T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2014-10-31T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/members-only">
-		<link>http://komasui.org/members-only</link>
+	<item rdf:about="https://komasui.org/members-only">
+		<link>https://komasui.org/members-only</link>
 		<title>狛吹団員専用</title>
 		<description>狛吹団員専用を更新しました！</description>
 		<dc:date>2014-10-05T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2014-09-01T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20141223">
-		<link>http://komasui.org/concert/20141223</link>
+	<item rdf:about="https://komasui.org/concert/20141223">
+		<link>https://komasui.org/concert/20141223</link>
 		<title>第15回定期演奏会</title>
 		<description>第15回定期演奏会を更新しました！</description>
 		<dc:date>2014-08-18T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2014-07-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2014-04-05T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2014-02-28T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2013-12-24T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2013-12-24T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2013-12-08T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2013-11-01T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20131223">
-		<link>http://komasui.org/concert/20131223</link>
+	<item rdf:about="https://komasui.org/concert/20131223">
+		<link>https://komasui.org/concert/20131223</link>
 		<title>第14回定期演奏会</title>
 		<description>第14回定期演奏会を更新しました！</description>
 		<dc:date>2013-08-30T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2013-05-26T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2013-03-26T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2013-01-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/social-media">
-		<link>http://komasui.org/social-media</link>
+	<item rdf:about="https://komasui.org/social-media">
+		<link>https://komasui.org/social-media</link>
 		<title>ソーシャルメディア</title>
 		<description>ソーシャルメディアを追加しました！</description>
 		<dc:date>2013-01-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2013-01-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20130106">
-		<link>http://komasui.org/concert/20130106</link>
+	<item rdf:about="https://komasui.org/concert/20130106">
+		<link>https://komasui.org/concert/20130106</link>
 		<title>第13回定期演奏会</title>
 		<description>第13回定期演奏会を更新しました！</description>
 		<dc:date>2012-12-14T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2012-10-28T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2012-10-28T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20130106">
-		<link>http://komasui.org/concert/20130106</link>
+	<item rdf:about="https://komasui.org/concert/20130106">
+		<link>https://komasui.org/concert/20130106</link>
 		<title>第13回定期演奏会</title>
 		<description>第13回定期演奏会を更新しました！</description>
 		<dc:date>2012-10-06T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/link/">
-		<link>http://komasui.org/link/</link>
+	<item rdf:about="https://komasui.org/link/">
+		<link>https://komasui.org/link/</link>
 		<title>リンク</title>
 		<description>リンクにJJ Saxophone Quartetを追加しました！</description>
 		<dc:date>2012-05-19T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/shoka-no-ongakukai">
-		<link>http://komasui.org/shoka-no-ongakukai</link>
+	<item rdf:about="https://komasui.org/shoka-no-ongakukai">
+		<link>https://komasui.org/shoka-no-ongakukai</link>
 		<title>初夏の音楽会</title>
 		<description>初夏の音楽会を追加しました！</description>
 		<dc:date>2012-05-19T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20130106">
-		<link>http://komasui.org/concert/20130106</link>
+	<item rdf:about="https://komasui.org/concert/20130106">
+		<link>https://komasui.org/concert/20130106</link>
 		<title>第13回定期演奏会</title>
 		<description>第13回定期演奏会を追加しました！</description>
 		<dc:date>2012-05-19T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2012-05-19T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2012-05-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2012-05-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2012-04-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2012-02-25T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2012-01-21T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会と第12回定期演奏会</title>
 		<description>演奏会と第12回定期演奏会を更新しました！</description>
 		<dc:date>2012-01-21T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/link/">
-		<link>http://komasui.org/link/</link>
+	<item rdf:about="https://komasui.org/link/">
+		<link>https://komasui.org/link/</link>
 		<title>リンク</title>
 		<description>リンクにFacebookページを追加しました！</description>
 		<dc:date>2011-12-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2011-11-28T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/link/">
-		<link>http://komasui.org/link/</link>
+	<item rdf:about="https://komasui.org/link/">
+		<link>https://komasui.org/link/</link>
 		<title>リンク</title>
 		<description>リンクにGoogle+ページとmixiページを追加しました！</description>
 		<dc:date>2011-11-13T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20120115">
-		<link>http://komasui.org/concert/20120115</link>
+	<item rdf:about="https://komasui.org/concert/20120115">
+		<link>https://komasui.org/concert/20120115</link>
 		<title>第12回定期演奏会</title>
 		<description>第12回定期演奏会を追加しました！</description>
 		<dc:date>2011-10-07T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2011-10-07T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2011-08-05T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2011-07-04T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2011-05-06T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2011-04-16T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2011-04-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2011-04-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20120115">
-		<link>http://komasui.org/concert/20120115</link>
+	<item rdf:about="https://komasui.org/concert/20120115">
+		<link>https://komasui.org/concert/20120115</link>
 		<title>第12回定期演奏会</title>
 		<description>第12回定期演奏会を追加しました！</description>
 		<dc:date>2011-02-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2010-11-24T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/">
-		<link>http://komasui.org/</link>
+	<item rdf:about="https://komasui.org/">
+		<link>https://komasui.org/</link>
 		<title>メールで購読</title>
 		<description>更新情報をメールで購読できるようになりました！</description>
 		<dc:date>2010-11-11T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/info">
-		<link>http://komasui.org/info</link>
+	<item rdf:about="https://komasui.org/info">
+		<link>https://komasui.org/info</link>
 		<title>楽団紹介</title>
 		<description>楽団紹介を更新しました！</description>
 		<dc:date>2010-11-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20110123">
-		<link>http://komasui.org/concert/20110123</link>
+	<item rdf:about="https://komasui.org/concert/20110123">
+		<link>https://komasui.org/concert/20110123</link>
 		<title>第11回定期演奏会</title>
 		<description>第11回定期演奏会を更新しました！</description>
 		<dc:date>2010-11-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2010-10-24T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2010-10-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/volunteer-no-tsudoi">
-		<link>http://komasui.org/volunteer-no-tsudoi</link>
+	<item rdf:about="https://komasui.org/volunteer-no-tsudoi">
+		<link>https://komasui.org/volunteer-no-tsudoi</link>
 		<title>ボランティアのつどい</title>
 		<description>ボランティアのつどいを追加しました！</description>
 		<dc:date>2010-10-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/map/aitopia">
-		<link>http://komasui.org/map/aitopia</link>
+	<item rdf:about="https://komasui.org/map/aitopia">
+		<link>https://komasui.org/map/aitopia</link>
 		<title>あいとぴあセンター</title>
 		<description>本番場所にあいとぴあセンターを追加しました！</description>
 		<dc:date>2010-10-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/map/">
-		<link>http://komasui.org/map/</link>
+	<item rdf:about="https://komasui.org/map/">
+		<link>https://komasui.org/map/</link>
 		<title>地図</title>
 		<description>地図を更新しました！</description>
 		<dc:date>2010-10-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/link/japan/society">
-		<link>http://komasui.org/link/japan/society</link>
+	<item rdf:about="https://komasui.org/link/japan/society">
+		<link>https://komasui.org/link/japan/society</link>
 		<title>日本〇〇協会</title>
 		<description>日本〇〇協会を更新しました！</description>
 		<dc:date>2010-10-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/link/">
-		<link>http://komasui.org/link/</link>
+	<item rdf:about="https://komasui.org/link/">
+		<link>https://komasui.org/link/</link>
 		<title>リンク</title>
 		<description>リンクを更新しました！</description>
 		<dc:date>2010-10-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/">
-		<link>http://komasui.org/concert/</link>
+	<item rdf:about="https://komasui.org/concert/">
+		<link>https://komasui.org/concert/</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2010-10-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert/20110123">
-		<link>http://komasui.org/concert/20110123</link>
+	<item rdf:about="https://komasui.org/concert/20110123">
+		<link>https://komasui.org/concert/20110123</link>
 		<title>第11回定期演奏会</title>
 		<description>第11回定期演奏会を更新しました！</description>
 		<dc:date>2010-10-02T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/">
-		<link>http://komasui.org/</link>
+	<item rdf:about="https://komasui.org/">
+		<link>https://komasui.org/</link>
 		<title>mixiチェックボタン</title>
 		<description>mixiチェックボタンを追加しました！</description>
 		<dc:date>2010-09-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2010-09-11T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/link/japan/tokyo">
-		<link>http://komasui.org/link/japan/tokyo</link>
+	<item rdf:about="https://komasui.org/link/japan/tokyo">
+		<link>https://komasui.org/link/japan/tokyo</link>
 		<title>東京の吹奏楽団</title>
 		<description>東京の吹奏楽団を更新しました！</description>
 		<dc:date>2010-08-28T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2010-07-20T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2010-07-14T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2010-05-26T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2010-04-10T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2010-04-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/info">
-		<link>http://komasui.org/info</link>
+	<item rdf:about="https://komasui.org/info">
+		<link>https://komasui.org/info</link>
 		<title>楽団紹介</title>
 		<description>楽団紹介を更新しました！</description>
 		<dc:date>2010-03-28T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2010-03-01T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2010-01-26T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2009-12-23T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2009-11-09T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2009-10-12T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2009-10-03T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2009-09-06T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/map">
-		<link>http://komasui.org/map</link>
+	<item rdf:about="https://komasui.org/map">
+		<link>https://komasui.org/map</link>
 		<title>地図</title>
 		<description>地図を更新しました！</description>
 		<dc:date>2009-09-06T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/info">
-		<link>http://komasui.org/info</link>
+	<item rdf:about="https://komasui.org/info">
+		<link>https://komasui.org/info</link>
 		<title>楽団紹介</title>
 		<description>楽団紹介を更新しました！</description>
 		<dc:date>2009-08-14T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/recruit">
-		<link>http://komasui.org/recruit</link>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
 		<title>団員募集</title>
 		<description>団員募集を更新しました！</description>
 		<dc:date>2009-08-04T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2009-07-29T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/schedule">
-		<link>http://komasui.org/schedule</link>
+	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！</description>
 		<dc:date>2009-06-18T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/concert">
-		<link>http://komasui.org/concert</link>
+	<item rdf:about="https://komasui.org/concert">
+		<link>https://komasui.org/concert</link>
 		<title>演奏会</title>
 		<description>演奏会を更新しました！</description>
 		<dc:date>2009-06-18T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/info">
-		<link>http://komasui.org/info</link>
+	<item rdf:about="https://komasui.org/info">
+		<link>https://komasui.org/info</link>
 		<title>楽団紹介</title>
 		<description>楽団紹介を更新しました！</description>
 		<dc:date>2009-06-18T00:00:00+09:00</dc:date>
 	</item>
-	<item rdf:about="http://komasui.org/">
-		<link>http://komasui.org/</link>
+	<item rdf:about="https://komasui.org/">
+		<link>https://komasui.org/</link>
 		<title>狛江市民吹奏楽団</title>
 		<description>サーバー移転＆リニューアルしました！</description>
 		<dc:date>2009-01-01T00:00:00+09:00</dc:date>

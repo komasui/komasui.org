@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Sitemap: http://komasui.org/googlesitemap.xml
-Sitemap: http://komasui.org/googlesitemap-mobile.xml
+Sitemap: https://komasui.org/googlesitemap.xml
+Sitemap: https://komasui.org/googlesitemap-mobile.xml

@@ -14,10 +14,10 @@
       var feedControl = new google.feeds.FeedControl();
       feedControl.setLinkTarget(google.feeds.LINK_TARGET_BLANK);
       feedControl.setNumEntries(7);
-      feedControl.addFeed("http://komasui.org/feed/", "狛吹");
-      feedControl.addFeed("http://komasui.org/bbs/publicity/?a=8", "宣伝");
-      feedControl.addFeed("http://komasui.org/bbs/talk/?a=8", "雑談");
-      feedControl.addFeed("http://member.komasui.org/rss.rdf", "団員");
+      feedControl.addFeed("https://komasui.org/feed/", "狛吹");
+      feedControl.addFeed("https://komasui.org/bbs/publicity/?a=8", "宣伝");
+      feedControl.addFeed("https://komasui.org/bbs/talk/?a=8", "雑談");
+      feedControl.addFeed("https://member.komasui.org/rss.rdf", "団員");
       feedControl.draw(
         document.getElementById("feedControl"), {
         drawMode : google.feeds.FeedControl.DRAW_MODE_TABBED
@@ -35,5 +35,5 @@
 
   ]]>
   </Content>
-  <Content type="url" view="mobile" href="http://komasui.org/" />
+  <Content type="url" view="mobile" href="https://komasui.org/" />
 </Module>

@@ -1,228 +1,232 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="https://www.google.com/schemas/sitemap-mobile/1.0">
    <url>
-      <loc>http://komasui.org/</loc>
+      <loc>https://komasui.org/</loc>
       <priority>1.0</priority>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/sitemap</loc>
+      <loc>https://komasui.org/sitemap</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/info</loc>
+      <loc>https://komasui.org/info</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/trainer/kitsu-yousuke</loc>
+      <loc>https://komasui.org/trainer/kitsu-yousuke</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/trainer/hanasaka-yoshitaka</loc>
+      <loc>https://komasui.org/trainer/hanasaka-yoshitaka</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/</loc>
+      <loc>https://komasui.org/concert/</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/19991017</loc>
+      <loc>https://komasui.org/concert/19991017</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20001105</loc>
+      <loc>https://komasui.org/concert/20001105</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20011209</loc>
+      <loc>https://komasui.org/concert/20011209</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20021208</loc>
+      <loc>https://komasui.org/concert/20021208</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20031214</loc>
+      <loc>https://komasui.org/concert/20031214</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20041212</loc>
+      <loc>https://komasui.org/concert/20041212</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20051211</loc>
+      <loc>https://komasui.org/concert/20051211</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20070121</loc>
+      <loc>https://komasui.org/concert/20070121</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20080120</loc>
+      <loc>https://komasui.org/concert/20080120</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20090118</loc>
+      <loc>https://komasui.org/concert/20090118</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20100124</loc>
+      <loc>https://komasui.org/concert/20100124</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20100314</loc>
+      <loc>https://komasui.org/concert/20100314</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20110123</loc>
+      <loc>https://komasui.org/concert/20110123</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20120115</loc>
+      <loc>https://komasui.org/concert/20120115</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20130106</loc>
+      <loc>https://komasui.org/concert/20130106</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20131223</loc>
+      <loc>https://komasui.org/concert/20131223</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20141223</loc>
+      <loc>https://komasui.org/concert/20141223</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20160221</loc>
+      <loc>https://komasui.org/concert/20160221</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20170205</loc>
+      <loc>https://komasui.org/concert/20170205</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/concert/20180128</loc>
+      <loc>https://komasui.org/concert/20180128</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/schedule</loc>
+      <loc>https://komasui.org/concert/20190127</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/</loc>
+      <loc>https://komasui.org/schedule</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/chuokominkan</loc>
+      <loc>https://komasui.org/map/</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/issho</loc>
+      <loc>https://komasui.org/map/chuokominkan</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/negawa</loc>
+      <loc>https://komasui.org/map/issho</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/nishigawara</loc>
+      <loc>https://komasui.org/map/negawa</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/notalino</loc>
+      <loc>https://komasui.org/map/nishigawara</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/yatohashi</loc>
+      <loc>https://komasui.org/map/notalino</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/nanbu</loc>
+      <loc>https://komasui.org/map/yatohashi</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/ecorma</loc>
+      <loc>https://komasui.org/map/nanbu</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/map/aitopia</loc>
+      <loc>https://komasui.org/map/ecorma</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/recruit</loc>
+      <loc>https://komasui.org/map/aitopia</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/social-media</loc>
+      <loc>https://komasui.org/recruit</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/</loc>
+      <loc>https://komasui.org/social-media</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/sheet-music-for-wind-orchestra</loc>
+      <loc>https://komasui.org/link/</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/</loc>
+      <loc>https://komasui.org/link/sheet-music-for-wind-orchestra</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/society</loc>
+      <loc>https://komasui.org/link/japan/</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/ibaraki</loc>
+      <loc>https://komasui.org/link/japan/society</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/tochigi</loc>
+      <loc>https://komasui.org/link/japan/ibaraki</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/gunnma</loc>
+      <loc>https://komasui.org/link/japan/tochigi</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/saitama</loc>
+      <loc>https://komasui.org/link/japan/gunnma</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/tokyo</loc>
+      <loc>https://komasui.org/link/japan/saitama</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/kanagawa</loc>
+      <loc>https://komasui.org/link/japan/tokyo</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/chiba</loc>
+      <loc>https://komasui.org/link/japan/kanagawa</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/link/japan/yamanashi</loc>
+      <loc>https://komasui.org/link/japan/chiba</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/contact</loc>
+      <loc>https://komasui.org/link/japan/yamanashi</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/ongaku-no-machi-komae</loc>
+      <loc>https://komasui.org/contact</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/shoka-no-ongakukai</loc>
+      <loc>https://komasui.org/ongaku-no-machi-komae</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</loc>
+      <loc>https://komasui.org/shoka-no-ongakukai</loc>
       <mobile:mobile/>
    </url>
    <url>
-      <loc>http://komasui.org/members-only</loc>
+      <loc>https://komasui.org/la-folle-journee-au-japon-pre-fest-a-komae</loc>
+      <mobile:mobile/>
+   </url>
+   <url>
+      <loc>https://komasui.org/members-only</loc>
       <mobile:mobile/>
    </url>
 </urlset>
