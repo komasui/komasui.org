@@ -14,6 +14,7 @@ img {
 /*----------- HEADER -----------*/
 div#top {
   background-size: cover;
+  height: 80px;
 }
 
 /*----------- NAVIGATION -----------*/
