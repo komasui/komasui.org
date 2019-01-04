@@ -2,7 +2,7 @@
 
 狛江市民吹奏楽団はGitHubを利用しています。
 
-http://komasui.org
+https://komasui.org
 
 ## リンクの追加・修正・削除を依頼する
 
