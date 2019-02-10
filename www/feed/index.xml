@@ -11,6 +11,9 @@
 		<description>東京都狛江市で活動している吹奏楽団の更新情報です。</description>
 		<items>
 			<rdf:Seq>
+				<rdf:li rdf:resource="https://komasui.org/concert/20200119" />
+				<rdf:li rdf:resource="https://komasui.org/schedule" />
+				<rdf:li rdf:resource="https://komasui.org/recruit" />
 				<rdf:li rdf:resource="https://komasui.org/schedule" />
 				<rdf:li rdf:resource="https://komasui.org/recruit" />
 				<rdf:li rdf:resource="https://komasui.org/schedule" />
@@ -164,7 +167,24 @@
 			</rdf:Seq>
 		</items>
 	</channel>
+	<item rdf:about="https://komasui.org/concert/20190127">
+		<link>https://komasui.org/concert/20200119</link>
+		<title>第20回定期演奏会</title>
+		<description>第20回定期演奏会を追加しました！お楽しみに！</description>
+		<dc:date>2019-02-10T00:00:00+09:00</dc:date>
+	</item>
 	<item rdf:about="https://komasui.org/schedule">
+		<link>https://komasui.org/schedule</link>
+		<title>練習予定</title>
+		<description>練習予定を更新しました！2月3月分の練習予定を掲載しています！</description>
+		<dc:date>2019-02-10T00:00:00+09:00</dc:date>
+	</item>
+	<item rdf:about="https://komasui.org/recruit">
+		<link>https://komasui.org/recruit</link>
+		<title>団員募集</title>
+		<description>団員募集を更新しました！次の演奏会に向けて募集を再開しております。</description>
+		<dc:date>2019-02-10T00:00:00+09:00</dc:date>
+	</item>
 		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！1月分の練習予定を掲載しています！</description>
