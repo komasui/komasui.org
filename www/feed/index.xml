@@ -170,7 +170,7 @@
 	<item rdf:about="https://komasui.org/concert/20190127">
 		<link>https://komasui.org/concert/20200119</link>
 		<title>第20回定期演奏会</title>
-		<description>第20回定期演奏会を追加しました！お楽しみに！</description>
+		<description>第20回定期演奏会を追加しました！2020年1月19日(日)・エコルマホール・入場無料ですっ！</description>
 		<dc:date>2019-02-10T00:00:00+09:00</dc:date>
 	</item>
 	<item rdf:about="https://komasui.org/schedule">
@@ -185,6 +185,7 @@
 		<description>団員募集を更新しました！次の演奏会に向けて募集を再開しております。</description>
 		<dc:date>2019-02-10T00:00:00+09:00</dc:date>
 	</item>
+	<item rdf:about="https://komasui.org/schedule">
 		<link>https://komasui.org/schedule</link>
 		<title>練習予定</title>
 		<description>練習予定を更新しました！1月分の練習予定を掲載しています！</description>
